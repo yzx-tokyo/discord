@@ -1,0 +1,9 @@
+{
+  "name"         : "卓立てbot",
+  "version"      : "1.0.0",
+  "description"  : "ボットの説明文",
+  "main"         : "bot.js",
+  "author"       : "yzx",
+  "dependencies" : {
+  }
+}
